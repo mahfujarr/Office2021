@@ -1,0 +1,1 @@
+Just run "Install.bat" file and Office (Word, Excel, Powerpoint, Access) will be installed.
